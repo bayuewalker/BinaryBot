@@ -1,8 +1,8 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Free Bot</title>
-<meta name="Description" content="Robot tradingg binary gratis dengan fitur terlengkap dan profitable ">
+  <title>Binary FastBot</title>
+<meta name="Description" content="Robot trading binary gratis dengan fitur terlengkap dan profitable ">
 <meta name="Keywords" content="robot trading binary gratis, robot trading gratis, bot binary gratis, bot binary profit">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -97,8 +97,8 @@
 		      		<div class="col-md-2" style="text-align: left"><strong>Indicators</strong></div>
 		      		<div class="col-md-2">
 			      		<select id="indicator" class="form-control">
-			      				<option value="powercandle">Power Candle</option>
-			      				<option value="trendbar">Trend Bar</option>
+			      				<option value="powercandle">Fast Candle</option>
+			      				<option value="trendbar">FastTrend Bar</option>
 			      				<option value="tickpattern">Tick Pattern</option>
 			      		</select>
 			      		
